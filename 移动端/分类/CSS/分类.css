@@ -1,0 +1,206 @@
+/*清除默认样式*/
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+    text-decoration:none;
+}
+.headbox{
+    width:100% ;
+    height:0.88rem;
+    background:#ffffff;
+    border-bottom:1px solid #f2f2f2;
+}
+.content {
+    width: 7.02rem;
+    height: 0.88rem;
+    margin: 0 auto;
+    /*background:blue;*/
+}
+.T img{
+    margin-top:0.29rem;
+    float:left;
+    width:0.28rem;
+    height:0.3rem;
+}
+.logo img{
+    float:left;
+    margin-left:2.9rem;
+    margin-top:0.3rem;
+    width:0.92rem;
+    height:0.3rem;
+}
+.more li{
+    width:0.08rem;
+    height:0.08rem;
+    margin-left:0.06rem;
+    float:right;
+    background:#000000;
+    margin-top:0.4rem;
+    border-radius:50%;
+}
+/*头部*/
+.nav{
+    width:100%;
+    height:0.74rem;
+    /*background: red;*/
+    position:relative;
+}
+.jing{
+    width:6.03rem;
+    height:0.59rem;
+    border:0.01rem solid #d9d9d9;
+    border-radius:0.295rem;
+    /*margin:0 auto;*/
+    position: relative;
+    margin-top:0.14rem;
+    overflow: hidden;
+}
+.jing .sou{
+    overflow: hidden;
+
+}
+.jing .sou a{
+    width:0.24rem;
+    height:0.25rem;
+    line-height: 0.6rem;
+    margin-left:0.14rem;
+    color:#b7b7b7;
+    float:left;
+}
+.jing .sou h4{
+    float:left;
+    line-height:0.6rem;
+    margin-left:0.2rem;
+    font-size: 0.24rem;
+    color:#737373;
+}
+.nav p{
+    font-size: 0.24rem;
+    font-weight: bold;
+    float:right;
+   margin-top:-0.45rem;
+}
+/*导航栏结束*/
+/*全部开始*/
+.quan{
+    width:100%;
+    height:10.38rem;
+    /*background:green;*/
+}
+.quan .nav2 ul .s .xiao{
+    width:0.2rem;
+    height:1.04rem;
+    background: #ffcb3f;
+    position: absolute;
+    top:-0rem;
+
+}
+.quan .nav2 li{
+    width:2rem;
+    height: 1.04rem;
+    background:#f7f7f7;
+    margin-top: 0.02rem;
+    text-align: center;
+    line-height: 1.04rem;
+    position: relative;
+}
+.XPDD{
+    width:5rem;
+    height:10.38rem;
+    /*background: blue;*/
+    float:right;
+    margin-top: -7.4rem;
+}
+.XPDD .TU img{
+    width:5rem;
+    height:1.34rem;
+}
+.XPDD i img{
+    width:1.42rem;
+    height:1.3rem;
+    margin-top: -1rem;
+    margin-left:3rem;
+}
+.youbian .dao{
+    width:5rem;
+    height:1rem;
+    /*background: white;*/
+    float:right;
+    margin-top:-8.8rem;
+}
+.youbian .dao ul li .a{
+    width:5rem;
+    border-bottom:0.2rem solid #ffcb3f ;
+    /*background:#ffcb3f;*/
+}
+.youbian .dao{
+    text-align: center;
+    line-height:1rem;
+}
+.fen{
+    width:4.9rem;
+    height:7.64rem;
+    /*background:red;*/
+    float:right;
+    margin-top:-7.8rem;
+}
+.fen ul li img{
+    float:left;
+    width:1.5rem;
+    height: 1.42rem;
+    margin-left:0.16rem;
+    margin-top:1rem;
+}
+.fen ul .a img{
+    margin-left: 0;
+    margin-top:0;
+}
+.fen ul .d img{
+    margin-left: 0;
+}
+.fen ul .g img{
+    margin-left: 0;
+}
+.fen ul .b img{
+    margin-top:0;
+}
+.fen ul .c img{
+    margin-top:0;
+}
+.end{
+    width:7.5rem;
+    height:1rem;
+    background:#e0e0e0;
+    position: fixed;
+    bottom:0;
+}
+.tab{
+    overflow: hidden;
+}
+.tab li{
+    float:left;
+    margin-left:1.25rem;
+    text-align: center;
+    line-height:0.5rem;
+}
+.tab .bb{
+    margin-left:0.65rem;
+}
+.tab .aa {
+    color:#ffcb3f;
+}
+.tab .aa i{
+    color:#ffcb3f;
+}
+/*tab*/
+
+
+
+
+
+
+
+
+
+

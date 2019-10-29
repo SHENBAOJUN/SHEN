@@ -1,0 +1,370 @@
+/*清除默认样式*/
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+    text-decoration:none;
+}
+.headbox{
+    width:100% ;
+    height:0.88rem;
+    background:#ffffff;
+    border-bottom:1px solid #f2f2f2;
+}
+.content {
+    width: 7.02rem;
+    height: 0.88rem;
+    margin: 0 auto;
+    /*background:blue;*/
+}
+.T img{
+    margin-top:0.29rem;
+    float:left;
+    width:0.28rem;
+    height:0.3rem;
+}
+.logo img{
+    float:left;
+    margin-left:2.9rem;
+    margin-top:0.3rem;
+    width:0.92rem;
+    height:0.3rem;
+}
+.more li{
+    width:0.08rem;
+    height:0.08rem;
+    margin-left:0.06rem;
+    float:right;
+    background:#000000;
+    margin-top:0.4rem;
+    border-radius:50%;
+}
+/*头部*/
+.D{
+    width:100%;
+    height:0.88rem;
+    /*background:red;*/
+    margin:0 auto;
+}
+.D ul li{
+    float:left;
+    font-size:0.24rem;
+    line-height:0.88rem;
+    margin-left:1.06rem;
+}
+.D ul .chan{
+    margin:0;
+}
+/*导航栏*/
+.T2 img{
+    width:7.5rem;
+    height:3.84rem;
+}
+.banner{
+    position: relative;
+}
+.A{
+    width:1.09rem;
+    height:0.33rem;
+    background:#ffcb3f;
+    font-size:0.18rem;
+    border-radius:50%;
+    text-align: center;
+    line-height: 0.33rem;
+    color:white;
+    margin-top:-1.4rem;
+    margin-left:0.6rem;
+    position:absolute;
+}
+/*banner*/
+.xin{
+    width:100%;
+    height:1.5rem;
+    margin:0 auto;
+}
+.xin1{
+    width:100%;
+    height:1.5rem;
+    /*background:blue;*/
+    margin:0 auto;
+}
+.xin1 .B{
+    width:2.28rem;
+    height:1.5rem;
+    /*background: yellow;*/
+    margin:0 auto;
+    text-align: center;
+}
+.xin1 .B .a{
+    width:0.5rem;
+    height:0.05rem;
+    /*background:red;*/
+}
+.xin1 .B .b{
+    /*background:black;*/
+    font-size:0.18rem;
+}
+.xin1 .B .c{
+    width:1.45rem;
+    height:0.31rem;
+    font-size:0.32rem;
+    /*float:left;*/
+}
+/*.xin1 .B .c{*/
+/*    width:0.34rem;*/
+/*    height:0.08rem;*/
+/*    background: black;*/
+/*}*/
+.fen1 .a img{
+     width:3.09rem;
+     height:5.11rem;
+ }
+.fen1 .b img{
+    width:3.09rem;
+    height:5.11rem;
+}
+.fen1 .c img{
+    width:3.09rem;
+    height:5.11rem;
+}
+.fen{
+    width:100%;
+    height:5.11rem;
+    background:#f5f5f5;
+    margin-left:0.24rem;
+    overflow:hidden;
+}
+.fen1 .a{
+    width:3.09rem;
+    height:5.11rem;
+    background:#e0e0e0;
+    float:left;
+}
+.fen1 .b{
+    width:3.09rem;
+    height:5.11rem;
+    background:#e0e0e0;
+    float:left;
+    margin-left:0.23rem;
+}
+.fen1 .c img{
+    width:3.09rem;
+    height:5.11rem;
+    /*background:#e0e0e0;*/
+    float:left;
+    margin-left:0.23rem;
+}
+.fen1 li{
+    overflow: hidden;
+}
+/*新品首发*/
+.xin{
+    width:100%;
+    height:1.5rem;
+    /*background:red;*/
+    margin:0 auto;
+}
+.xin1{
+    width:100%;
+    height:1.5rem;
+    /*background:blue;*/
+    margin:0 auto;
+}
+.xin1 .B{
+    width:2.28rem;
+    height:1.5rem;
+    /*background: yellow;*/
+    margin:0 auto;
+    text-align: center;
+}
+.xin1 .B .a{
+    width:0.5rem;
+    height:0.05rem;
+    /*background:red;*/
+}
+.xin1 .B .b{
+    /*background:black;*/
+    font-size:0.18rem;
+}
+.xin1 .B .c{
+    width:1.45rem;
+    height:0.31rem;
+    font-size:0.32rem;
+    /*float:left;*/
+}
+.re{
+    width:6.99rem;
+    height:6.93rem;
+    background:#e0e0e0;
+}
+.re .sha img{
+    width:6.25rem;
+    height:2.62rem;
+    margin-top:0.98rem;
+    margin-left:0.38rem;
+}
+.re .wen{
+    margin-left:0.38rem;
+    margin-top:0.65rem;
+}
+/* 热销产品*/
+.fend{
+    width:6.99rem;
+    height:8.55rem;
+    /*background:red;*/
+    margin-top:6.2rem;
+}
+.fend .xian li{
+    width:3.38rem;
+    height:4.16rem;
+    /*background:blue;*/
+    float:left;
+    margin-top:0.23rem;
+    margin-left:0.23rem;
+}
+.fend .xian li p{
+    font-size:0.18rem;
+    margin-left:0.45rem;
+    margin-top:0.2rem;
+}
+.fend .xian li h4{
+    font-size:0.26rem ;
+    margin-left:0.45rem;
+    margin-top:0.15rem;
+}
+.fend .xian li img{
+    width:1.8rem;
+    height:1.62rem;
+    margin-left:0.45rem;
+    margin-top:0.25rem;
+}
+.fend .xian li h5{
+    font-size:0.18rem;
+    margin-left:0.45rem;
+    margin-top:0.12rem;
+}
+.aaa{
+    clear:both;
+}
+.fend .xian .sss{
+    margin-left:0;
+    margin-top:0;
+}
+.fend .xian .ssss{
+    margin-top:0;
+}
+.fend .xian .sssss{
+    margin-left: 0;
+}
+/*热销产品*/
+.an{
+    width:100%;
+    height:1.5rem;
+    /*background:red;*/
+    margin:0 auto;
+    margin-top:8rem;
+}
+.zhanshi{
+    width:100%;
+    height:1.5rem;
+    /*background:blue;*/
+    margin:0 auto;
+}
+.zhanshi .D{
+    width:2.28rem;
+    height:1.5rem;
+    /*background: yellow;*/
+    margin:0 auto;
+    text-align: center;
+}
+.zhanshi .D .a{
+    width:0.5rem;
+    height:0.05rem;
+    /*background:red;*/
+}
+.zhanshi .D .b{
+    /*background:black;*/
+    font-size:0.18rem;
+}
+.zhanshi .D .c{
+    width:1.45rem;
+    height:0.31rem;
+    font-size:0.32rem;
+    /*float:left;*/
+}
+/*案例展示*/
+.anli .zhanshi img{
+    width:7.02rem;
+    height:4.38rem;
+    margin-top:0.3rem;
+}
+.anli .about{
+    text-align: center;
+    margin-top:3.6rem;
+}
+.liao{
+    width:1.39rem;
+    height:0.59rem;
+    border-radius:0.3rem;
+    /*background:#757575;*/
+    border:0.02rem solid #ffcb3f;
+    text-align: center;
+    line-height: 0.6rem;
+    margin:0 auto;
+    margin-top:7.8rem;
+    font-size:0.18rem;
+}
+.gushi img{
+    width:7.5rem;
+    height:3.34rem;
+}
+.end{
+    width:7.5rem;
+    height:1rem;
+    background:#fafafa;
+    position: fixed;
+    bottom:0;
+}
+.tab{
+    overflow: hidden;
+}
+.tab li{
+    float:left;
+    margin-left:1.25rem;
+    text-align: center;
+    line-height:0.5rem;
+}
+.tab .bb{
+    margin-left:0.65rem;
+    color:#ffcb3f;
+}
+.tab .bb a{
+    color: #ffcb3f;
+}
+.tab .cc{
+    margin-left:0.99rem;
+}
+.tab .dd{
+    margin-left:1.2rem;
+}
+/*tab*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

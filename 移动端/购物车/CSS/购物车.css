@@ -1,0 +1,325 @@
+/*清除默认样式*/
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+    text-decoration:none;
+}
+.headbox{
+    width:100% ;
+    height:0.88rem;
+    background:#ffffff;
+    border-bottom:1px solid #f2f2f2;
+}
+.content {
+    width: 7.02rem;
+    height: 0.88rem;
+    margin: 0 auto;
+    /*background:blue;*/
+}
+.T img{
+    margin-top:0.29rem;
+    float:left;
+    width:0.28rem;
+    height:0.3rem;
+}
+.logo img{
+    float:left;
+    margin-left:2.9rem;
+    margin-top:0.3rem;
+    width:0.92rem;
+    height:0.3rem;
+}
+.more li{
+    width:0.08rem;
+    height:0.08rem;
+    margin-left:0.06rem;
+    float:right;
+    background:#000000;
+    margin-top:0.4rem;
+    border-radius:50%;
+}
+/*头部*/
+.dao{
+    width:100%;
+    height:0.88rem;
+    /*background: red;*/
+    position: relative;
+}
+.dao ul li{
+    float:left;
+    line-height: 0.88rem;
+    margin-left:2.76rem;
+}
+.dao ul .a{
+    margin-left:0.9rem;
+    color:#ffcb3f;
+}
+.dao div{
+    width:0.46rem;
+    height: 0.03rem;
+    background: #ffcb3f;
+    margin-left:1.3rem;
+    position: absolute;
+    margin-top:0.8rem;
+}
+.banner img{
+    width:100%;
+    height:5rem;
+}
+.zhi{
+    width:100%;
+    height:0.64rem;
+    /*background:blue;*/
+}
+.zhi ul li{
+    float:right;
+    line-height: 0.64rem;
+    /*font-size: ;*/
+}
+.zhi ul .b{
+    color:#ffcb3f;
+    font-size: 0.3rem;
+}
+.zhi ul .a{
+    font-size: 0.24rem;
+}
+.zhi ul .c{
+    font-size: 0.3rem;
+}
+p{
+    font-size:0.4rem;
+    font-weight:900;
+}
+.chang{
+    background:#d7d7d7;
+    width:6.58rem;
+    height:0.02rem;
+}
+.chang div{
+    background:#ffcb3f;
+    width:0.47rem;
+    height: 0.03rem;
+}
+.zhong P{
+    font-size: 0.35rem;
+    font-weight:600;
+
+}
+.gui P{
+    font-size: 0.35rem;
+    font-weight:600;
+    margin-top: 0.08rem;
+}
+.yan P{
+    font-size: 0.35rem;
+    font-weight:600;
+    margin-top: 0.08rem;
+}
+.yan ul .tao{
+    width:0.50rem;
+    height:0.50rem;
+    border:0.01rem solid #ffcb3f;
+    border-radius: 50%;
+    float:left;
+}
+.yan ul .tao .zhong{
+    width:0.40rem;
+    height: 0.40rem;
+    border:0.03rem solid #ffcb3f ;
+    border-radius: 50%;
+    margin:0 auto;
+    margin-top:0.023rem;
+}
+.yan ul .tao .zhong .huang{
+    width:0.30rem;
+    height: 0.30rem;
+    background: #ffcb3f;
+    border-radius: 50%;
+    margin:0 auto;
+    margin-top:0.05rem;
+}
+.yan ul .zi{
+    width:0.3rem;
+    height:0.3rem;
+    border:0.1rem solid #d880d7;
+    border-radius: 50%;
+    margin-left:1rem;
+}
+.yan ul .lv{
+     width:0.3rem;
+     height:0.3rem;
+     border:0.1rem solid #b5d548;
+     border-radius: 50%;
+     margin-left:2rem;
+     margin-top:-0.5rem;
+}
+.yan ul .cheng{
+    width:0.3rem;
+    height:0.3rem;
+    border:0.1rem solid #efc5a1;
+    border-radius: 50%;
+    margin-left:3rem;
+    margin-top:-0.5rem;
+}
+.pei P{
+    font-size: 0.35rem;
+    font-weight:600;
+    margin-top: 0.08rem;
+}
+.chang2{
+    background:#d7d7d7;
+    width:6.58rem;
+    height:0.02rem;
+}
+.chang2 div{
+    background:#ffcb3f;
+    width:0.47rem;
+    height: 0.03rem;
+}
+.zhi{
+    width:100%;
+    height:0.64rem;
+    /*background:blue;*/
+}
+.zhi ul li{
+    float:left;
+    line-height: 0.64rem;
+}
+.zhi2 ul .b{
+    color:#ffcb3f;
+    font-size: 0.3rem;
+}
+.zhi2 ul .a{
+    font-size: 0.5rem;
+    font-weight: 900;
+}
+.gou P{
+    font-size: 0.35rem;
+    font-weight:600;
+    margin-top: 0.08rem;
+}
+.gou .jia ul .jian{
+    width:0.43rem;
+    height: 0.43rem;
+    border: 0.02rem solid #e2e2e2;
+    position: absolute;
+    margin-top:-0.5rem;
+    margin-left:5rem;
+    text-align: center;
+    line-height: 0.43rem;
+}
+.gou .jia ul .jia2{
+    width:0.43rem;
+    height: 0.43rem;
+    border: 0.02rem solid #e2e2e2;
+    position: absolute;
+    margin-top:-0.5rem;
+    margin-left:6rem;
+    text-align: center;
+    line-height: 0.43rem;
+}
+.gou .jia ul{
+    position: relative;
+}
+.gou .jia ul h5{
+    position:absolute;
+    margin-top: -0.4rem;
+    margin-left:5.65rem;
+    font-size: 0.3rem;
+}
+.chang3{
+    background:#d7d7d7;
+    width:4rem;
+    height:0.02rem;
+    margin-top: 0.5rem;
+}
+.chang3 div{
+    background:#ffcb3f;
+    width:0.47rem;
+    height: 0.03rem;
+}
+.liulan  P{
+    font-size: 0.35rem;
+    font-weight:600;
+    margin-top: 0.08rem;
+}
+.shang{
+    width:100%;
+    height:4.96rem;
+    /*background:blue;*/
+    position: relative;
+    margin-top:5rem;
+    overflow: hidden;
+}
+.shang ul li{
+    float:left;
+}
+.shang ul{
+    overflow: hidden;
+}
+.shang ul li img{
+    width:3.04rem;
+    height:4.96rem;
+    float:left;
+    margin-left:0.24rem;
+}
+.xiang{
+    text-align: center;
+}
+.xiang .b{
+    color:#ffcb3f;
+}
+.qing img{
+    width:6.41rem;
+    height: 5.48rem;
+    margin:0.6rem;
+}
+.changjing img{
+    width:100%;
+    height: 4.14rem;
+}
+.xijie img{
+    width:100%;
+    height: 4.14rem;
+    margin-top:1.5rem;
+}
+.tui div{
+    width:0.05rem;
+    height:0.5rem;
+    background: #ffcb3f;
+    margin-top: 0.6rem;
+}
+.tui p{
+    margin-top:-0.5rem;
+    margin-left:0.3rem;
+}
+.jian{
+    width:100%;
+    height:10.16rem;
+    /*background:green;*/
+}
+.jian ul li img{
+    width:3.2rem;
+    height:4.94rem;
+    float:left;
+    margin-left:0.24rem;
+    margin-top: 0.15rem;
+}
+.tab img{
+    width:100%;
+    height:0.95rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
